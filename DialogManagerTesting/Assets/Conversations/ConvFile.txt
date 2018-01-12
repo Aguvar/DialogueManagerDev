@@ -1,0 +1,1 @@
+$TestConversation2$#$Entity$|$Sup.$|0.1#$Protag$|$Is this a test?$|0.05#$Entity$|$Indeed it is.$|0.1

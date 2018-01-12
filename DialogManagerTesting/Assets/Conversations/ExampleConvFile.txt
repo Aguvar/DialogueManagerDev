@@ -1,0 +1,25 @@
+$DefaultConvoAfterBeerDrinking$#Alien|$Damn, what a scary hooman!$#Alien|$Praise the lord, luckily I’m immune$#Alien|$to hooman stupidity.$#Alien|$Anyway, go away hooman!$#Protag|$Are you kiddin‘ me, big snail?!$#Protag|$Now you’re speakin‘ my language?!$#Alien|$Well hooman, I told you before to disappear.$#Protag|$Jesus Christ, that beer must have been strong.$#Protag|$Can’t be american.$#Protag|$Should take another sip, good stuff.$#Protag|$If only that thing would shut up…$#Alien|$Hit the road, hooman!$#Protag|$Guess I would, but you and your fat snail ass are$#Protag|$somehow in my way.$#Alien|$Just in case you didn’t notice, I am a snail.$#Alien|$I do not have a butt.$#Alien|$But back on topic, I lost my keys.$#Alien|$Would you be so kind and help me find them, hooman?$#Alien|$Otherwise, we can’t leave the basement.$
+$ConvoAfterFoundKey$#Protag|$Yo snail! Are those your keys?$#Alien|$OOOH HOOMAN! Thank you so much.$#Alien|$You saved my job!$#Alien|$I am incredibly grateful for your help, hooman!$#Alien|$Forgive me for my prejudices.$#Alien|$Pass now.$#Alien|$May Herb be always in your brave hooman heart.$
+$DefaultS2ElevatorThought$#Protag|$Out of order.$
+$S2WindowToSpace$#Protag|$Holy shit, looks like I’m in space!!!$
+$DefaultS3Star$#Protag|$Twinkle twinkle little star, I need beer cause earth is far.$
+$DefaultS3Ufo$#Protag|$Hopefully this is the Delivery Guy.$
+$S3EarthAndEndingThought$#Protag|$Home sweet home, how do I get back there? Maybe I should call mum to pick me up.$
+
+$FirstThought$#Protag|$Eeeeeeew, Fuck!$#Protag|$Where the hell am I? What’s happening?!$#Protag|$Feelin‘ sick, shouldn’t have drunk that much…$#Protag|$Hm? What is that mysterious glowing light over there?$
+$ThoughtAfterLightsOn$#Protag|$Oh my God, this is not my room…$#Protag|$At least I remember it differently.$
+$DefaultThoughtAnniversaryBanner$#Protag|$Must have been a great party.$#Protag|$Wasn’t it the jubilee of this professor…can’t remember his name.$
+$DefaultThoughtTooter$#Protag|$Freakin‘ noise!$#Protag|$Got me a headache.$
+$DefaultThoughtMusicPoster$#Protag|$BÄM? Better say DAMN, terrible band.$#Protag|$Who on earth decorates walls whith that?!$#Protag|$They only do mainstream stuff…$
+
+$DefaultThoughtBeerBottleGround$#Protag|$What a waste!$#Protag|$Poor students could have drunken that.$
+$DefaultThoughtChairAndTable$#Protag|$Looks comfy, next time I'll sleep over there.$
+$DefaultThoughtPictureJML$#Protag|$Who is this JML?$#Protag|$Why those lightsabers?$#Protag|$Is he an actor in Star Wars?$
+$DefaultThoughtLocker$#Protag|$What’s in there?$#Protag|$I’m smellin‘ beer…$
+$DefaultBeerBottleBeforeTalkingToAlien$#Protag|$What a beautiful bottle of beer!$#Protag|$I'll drink it later.$
+$DefaultFirstConvo$#Protag|$Crazy decoration down here, nice inflatable animal.$#Alien|$?!&!?%!€@€§!?!$#Protag|$Ooooookay it’s talking…$#Protag|$Cool bro, see you later.$#Protag|$Well, looks like I’m goin‘ nowhere.$#Protag|$So it’s just me and the beer now… again.$
+$DefaultToughtNakedMan$#Protag|$Oh my god, who is he? He got drunk on bacardi!$#Protag|$Wondering where his pants are...$
+
+
+
+
